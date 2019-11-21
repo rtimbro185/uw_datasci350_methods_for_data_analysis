@@ -21,7 +21,11 @@ Data analysis lies at the heart of data science. This course focuses on the fund
 * Apply basic time series models for forecasting
 
 
-Course Schedule:
+<br>
+<br>
+![UW_DS_Certificate](./images/RyanTimbrook_UWDataScience_Certificate.png)
 
-![Schedule](./images/schedule.png)
+
+<br>
+<br>
 University of Washington, Certificate in Data Science - DATASCI 350 - Methods For Data Analysis
