@@ -20,12 +20,9 @@ Data analysis lies at the heart of data science. This course focuses on the fund
 * Construct and evaluate linear models using different regularization techniques
 * Apply basic time series models for forecasting
 
-
-<br>
-<br>
+   
+   
 ![UW_DS_Certificate](./images/RyanTimbrook_UWDataScience_Certificate.png)
 
 
-<br>
-<br>
 University of Washington, Certificate in Data Science - DATASCI 350 - Methods For Data Analysis
